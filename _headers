@@ -12,3 +12,11 @@
   Link: </fonts/TestSohne-Halbfett-BF663d89cd2d67b.otf>; rel=preload; as=font; type="font/otf"; crossorigin=anonymous
   /robots.txt
   Content-Type: text/plain
+  /css/*
+  Content-Type: text/css
+  /js/*
+    Content-Type: application/javascript
+  /images/*
+    Content-Type: image/webp
+  /fonts/*
+    Content-Type: font/woff2

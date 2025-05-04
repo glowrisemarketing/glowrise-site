@@ -436,7 +436,7 @@ p {
 }
 
 .hero-section-image {
-  background-image: url('../images/iPhone-15-Mockup-Perspective-1_upscayl_2x_upscayl-standard-4x.png');
+  background-image: url('../images/iPhone-15-Mockup-Perspective-1_upscayl_2x_upscayl-standard-4x.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -473,7 +473,7 @@ p {
 }
 
 .features-grid-image {
-  background-image: url('../images/pexels-googledeepmind-25630340.jpg');
+  background-image: url('../images/pexels-googledeepmind-25630340.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -482,11 +482,11 @@ p {
 }
 
 .features-grid-image._2 {
-  background-image: url('../images/pexels-googledeepmind-25630342.jpg');
+  background-image: url('../images/pexels-googledeepmind-25630342.webp');
 }
 
 .features-grid-image._3 {
-  background-image: url('../images/pexels-googledeepmind-25630338.jpg');
+  background-image: url('../images/pexels-googledeepmind-25630338.webp');
 }
 
 .yellow-container {
@@ -532,7 +532,7 @@ p {
 
 .industry-image {
   z-index: 1;
-  background-image: url('../images/istockphoto-92007666-612x612.jpg');
+  background-image: url('../images/istockphoto-92007666-612x612.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -541,26 +541,26 @@ p {
 }
 
 .industry-image._2 {
-  background-image: url('../images/istockphoto-458275291-612x612.jpg');
+  background-image: url('../images/istockphoto-458275291-612x612.webp');
 }
 
 .industry-image._3 {
-  background-image: url('../images/istockphoto-1466722860-612x612.jpg');
+  background-image: url('../images/istockphoto-1466722860-612x612.webp');
 }
 
 .industry-image._4 {
-  background-image: url('../images/istockphoto-1359000309-612x612.jpg');
+  background-image: url('../images/istockphoto-1359000309-612x612.webp');
 }
 
 .industry-image._5 {
-  background-image: url('../images/istockphoto-1430548806-612x612.jpg');
+  background-image: url('../images/istockphoto-1430548806-612x612.webp');
   background-position: 35%;
   background-repeat: no-repeat;
   background-attachment: scroll;
 }
 
 .industry-image._6 {
-  background-image: url('../images/pexels-mikhail-nilov-7988115.jpg');
+  background-image: url('../images/pexels-mikhail-nilov-7988115.webp');
 }
 
 .navbar-bg {
@@ -823,7 +823,7 @@ p {
 
 .cta-section {
   background-color: var(--black);
-  background-image: url('../images/Subtract.png');
+  background-image: url('../images/Subtract.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
