@@ -10,3 +10,5 @@
   Link: </fonts/Inter_18pt-Regular.ttf>; rel=preload; as=font; type="font/ttf"; crossorigin=anonymous
   Link: </fonts/Sohne-Extrafett.otf>; rel=preload; as=font; type="font/otf"; crossorigin=anonymous
   Link: </fonts/TestSohne-Halbfett-BF663d89cd2d67b.otf>; rel=preload; as=font; type="font/otf"; crossorigin=anonymous
+  /robots.txt
+  Content-Type: text/plain
