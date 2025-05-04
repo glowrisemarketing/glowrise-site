@@ -5,5 +5,8 @@
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Access-Control-Allow-Origin: *
   Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+  Access-Control-Allow-Origin: *
+  Link: </fonts/Inter_18pt-Regular.ttf>; rel=preload; as=font; type="font/ttf"; crossorigin=anonymous
+  Link: </fonts/Sohne-Extrafett.otf>; rel=preload; as=font; type="font/otf"; crossorigin=anonymous
+  Link: </fonts/TestSohne-Halbfett-BF663d89cd2d67b.otf>; rel=preload; as=font; type="font/otf"; crossorigin=anonymous
