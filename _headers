@@ -16,7 +16,13 @@
   Content-Type: text/css
   /js/*
     Content-Type: application/javascript
-  /images/*
+  /images/*.svg
+    Content-Type: image/svg+xml
+  /images/*.webp
     Content-Type: image/webp
+  /images/*.png
+    Content-Type: image/png
+  /images/*.jpg
+    Content-Type: image/jpeg
   /fonts/*
     Content-Type: font/woff2
